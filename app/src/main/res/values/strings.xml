@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFileBrowser</string>
+
+    <string name="download">Download</string>
+    <string name="downloaded_files">Last downloads:</string>
+    <string name="action_settings">Settings</string>
+</resources>
